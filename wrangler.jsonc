@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "cv-website-manueldelgado",
+  "compatibility_date": "2026-06-10",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "MyCV-IT"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
